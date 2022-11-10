@@ -1,5 +1,5 @@
 body {
-    font-family: Acme , Helvetica, sans-serif;
+    font-family: 'Rajdhani', sans-serif;
     background-color: #d9ed92;
     margin: 0;
     padding: 0; 
@@ -47,7 +47,7 @@ body {
 #hero-msg h4 {
     text-align: center;
     color: rgb(2, 1, 1);
-    font-family: Abyssinica , Helvetica, sans-serif;
+    font-family: 'Rajdhani', sans-serif;
     font-size: 30px;
 }
 
@@ -73,7 +73,7 @@ body {
 
 .home-title {
     color: #a60512;
-    font-family:Acme , Helvetica, sans-serif;
+    font-family: 'Rajdhani', sans-serif;
     font-size: 2em;
     margin-top: 10px;
 }
@@ -160,7 +160,7 @@ body {
     
 .msg p {
     color: black;
-    font-family: Abyssinica , Helvetica, sans-serif;
+    font-family: 'Rajdhani', sans-serif;
     font-size: 1.5em;
     padding-bottom: 15px;
 }
@@ -224,7 +224,7 @@ footer, a {
 }
 
 footer p {
-    font-family: Abyssinica , Helvetica, sans-serif;
+    font-family: 'Rajdhani', sans-serif;
     font-size: 1.2em;
 }
 
