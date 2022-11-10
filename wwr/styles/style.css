@@ -72,7 +72,7 @@ body {
 }
 
 .home-title {
-    color: #e50618;
+    color: #a60512;
     font-family:Acme , Helvetica, sans-serif;
     font-size: 2em;
     margin-top: 10px;
@@ -130,7 +130,7 @@ body {
 }
 
 .book, .join {
-    background-color: #659fc4;
+    background-color: #184E77;
     color: black;
     text-decoration: none;
     font-size: 18px;
@@ -140,12 +140,12 @@ body {
 }
 
 .book:hover, .join:hover {
-    background-color: #e7081a;
+    background-color: #a60512;
     color: #b7c2c9;    
 } 
 
 .msg {
-    background-color: #b7c2c9;  
+    background-color: #D9ED92;  
     line-height: 1.5em;
     padding: 35px;
     grid-column: 6/10;
@@ -154,7 +154,7 @@ body {
 }
 
 .msg h2 {
-    color: #f0071a;
+    color: #a60512;
     font-size: 1.5em;
     }
     
@@ -166,7 +166,7 @@ body {
 }
 
 header {
-    background-color:#b7c2c9; 
+    background-color:#D9ED92; 
     display: grid;
     grid-template-columns: 150px auto;
     opacity: .7;
@@ -181,7 +181,7 @@ nav {
 nav a {
     text-align: center; 
     background-color: inherit;
-    color: #f10b1e;
+    color: #a60512;
     text-decoration: none;
     font-size: 20px;
     padding: 15px 30px;
@@ -189,7 +189,7 @@ nav a {
 }
 
 nav a:hover {
-    background-color: #ef0619;
+    background-color: #a60512;
     color: #b7c2c9;   
 }
 
@@ -202,7 +202,7 @@ main section img {
 }
 
 h2 {
-    color: #e50618;
+    color: #a60512;
     margin: 0;
 }
 
@@ -218,8 +218,8 @@ footer .social img {
 }
 
 footer, a {
-    background-color: #b7c2c9; 
-    color: #e00719;
+    background-color: #34A0A4; 
+    color: #a60512;
     text-decoration: none;
 }
 
@@ -230,12 +230,12 @@ footer p {
 
 footer a:hover {
     background-color:#b7c2c9;
-    color: #db0a1b;
+    color: #a60512;
 }
 
 footer p a:hover {
     text-decoration: underline;
-    background-color: #e40b1d;
+    background-color: #a60512;
     color: #b7c2c9;   
 }    
 
