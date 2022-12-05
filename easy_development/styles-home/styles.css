@@ -7,9 +7,7 @@
        
 }
 
-#content {
-   
-}
+
 
 header {
     display: flex;
@@ -112,7 +110,7 @@ footer{
 
 footer .social img {
     padding-top: 15px;
-    justify-items: space-around;
+   
 }
 
 footer, a {
@@ -141,3 +139,8 @@ footer p a:hover {
     margin-left: -8%;
 }
 
+@media screen and (min-width: 1024px) {
+    .logo {
+        display: block;
+    }
+}
